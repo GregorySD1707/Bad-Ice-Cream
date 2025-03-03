@@ -54,7 +54,6 @@ This personal project consists of making a replica of the Bad Ice Cream game usi
 
 🔹 Add different levels and new game mechanics.
 
-🔹 Implements Thread class to make independent every single action in the game
 <br><br> 
 ## Autor
 👤 GregorySD
