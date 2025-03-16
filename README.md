@@ -22,6 +22,7 @@ This personal project aims to create a replica of the Bad Ice Cream game using t
    
    ```bash
    git clone https://github.com/GregorySD1707/Bad-Ice-Cream.git
+   ```
 2. Open the project in your favorite IDE or text editor.
 3. Compile and run the ```Main.java``` class
 <br><br> 
@@ -48,7 +49,7 @@ This personal project aims to create a replica of the Bad Ice Cream game using t
 📂 controller/ - Controller that manages the game logic.
 <br><br> 
 ## Future Features 🚀
-🔹 Implement a JavaFX version to create a graphical  interface.
+🔹 Implement a JavaFX version to create a graphical interface.
 
 🔹 Improve the enemies movement logic.
 
