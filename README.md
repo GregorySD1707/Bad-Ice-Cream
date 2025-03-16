@@ -1,59 +1,59 @@
 # Bad Ice Cream (Java console version) 🍦🎮  
 
 ## Description
-Bad Ice-Cream is an food action game released in flash on December 10, 2010. The player controls an Ice Cream Character trying to collect all the fruit in each of the forty levels while defending themselves from enemies. 
+Bad Ice-Cream is a food-themed action game originally released in Flash in 2010. The player controls an ice cream character who must collect all the fruits while defending themselves from enemies.
 <br><br> 
 ## Purpose
-This personal project consists of making a replica of the Bad Ice Cream game using the knowledge learned so far in my career.
+This personal project aims to create a replica of the Bad Ice Cream game using the knowledge I have acquired so far in my career.
 <br><br> 
-## Console version characteristics
+## Console Version Features
 ✅ Movement based on a matrix.
 
-✅ Enemies with predefinied movements.
+✅ Enemies with predefined movements.
 
-✅ Colission mechanic between the ice cream and the enemies.
+✅ Collision mechanics between the ice cream and the enemies.
 
-✅ Fruit recolection on the map.
+✅ Fruit collection on the map.
 
-✅ Implementation usign MVC model.
+✅ Implementation using the MVC (Model-View-Controller) pattern.
 <br><br> 
-## Steps to execute the game
-1. Clone the repository on your computer:
+## Steps to Execute the Game
+1. Clone the repository to your computer:
    
    ```bash
-   git clone https://github.com/GregorySD1707/Bad-Icre-Cream.git
-2. Open the project on your favorite IDE or text editor.
-3. Compile and execute the Main.java class
+   git clone https://github.com/GregorySD1707/Bad-Ice-Cream.git
+2. Open the project in your favorite IDE or text editor.
+3. Compile and run the ```Main.java``` class
 <br><br> 
-## How to play
-🎮 User the follow keys to move the ice cream:
+## How to Play
+🎮 Use the following keys to move the ice cream:
 
 ➡️ WASD to move across the matrix.
 
 ---
 > [!Warning]
-> As it is a console version, you will have to press the key and press ENTER to move the ice cream.
+> Since this is a console version, you will need to press a key and then press ENTER to move the ice cream.
 ---
-❌ Avoid collide with the enemies.
+❌ Avoid colliding with the enemies.
 
-🍓 Recolect all the fruits to win.
+🍓 Collect all the fruits to win.
 <br><br> 
-## Code structure
-📂 src/ - Contains all source code.
+## Code Structure
+📂 src/ - Contains all the source code.
 
-📂 model/ - Game Logic (Ice cream, enemies, map).
+📂 model/ - Game logic (ice cream, enemies, map).
 
-📂 view/ - Console interface to show the game.
+📂 view/ - Console interface to display the game.
 
 📂 controller/ - Controller that manages the game logic.
 <br><br> 
-## Future features 🚀
-🔹 Implemente a JavaFX version to have a graphic interface.
+## Future Features 🚀
+🔹 Implement a JavaFX version to create a graphical  interface.
 
-🔹 Improve the enemies logic movement.
+🔹 Improve the enemies movement logic.
 
 🔹 Add different levels and new game mechanics.
 
 <br><br> 
-## Autor
+## Author
 👤 GregorySD
