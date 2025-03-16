@@ -1,6 +1,6 @@
 # Bad Ice Cream (Java console version) 🍦🎮  
 
-## Description
+## Game Description
 Bad Ice-Cream is a food-themed action game originally released in Flash in 2010. The player controls an ice cream character who must collect all the fruits while defending themselves from enemies.
 <br><br> 
 ## Purpose
@@ -54,7 +54,6 @@ This personal project aims to create a replica of the Bad Ice Cream game using t
 🔹 Improve the enemies movement logic.
 
 🔹 Add different levels and new game mechanics.
-
 <br><br> 
 ## Author
 👤 GregorySD
